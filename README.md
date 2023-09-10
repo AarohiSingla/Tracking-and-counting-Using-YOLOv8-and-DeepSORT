@@ -1,7 +1,7 @@
 # Tracking-and-counting-Using-YOLOv8-and-DeepSORT
 Tracking and counting persons
 
-Youtube video: 
+Follow this Youtube video to run this code: https://youtu.be/Y2fyDYcfmBg
 
 Clone this github repo: 
 
