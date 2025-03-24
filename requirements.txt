@@ -151,7 +151,7 @@ terminado==0.17.1
 thop==0.1.1.post2209072238
 tifffile==2023.8.30
 tinycss2==1.2.1
-torch==2.0.1+cu117
+torch>=2.1.2
 torchaudio==2.0.2+cu117
 torchvision==0.15.2+cu117
 tornado==6.3.2
