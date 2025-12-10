@@ -167,7 +167,7 @@ wcwidth==0.2.6
 webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.5.2
-Werkzeug==3.0.1
+Werkzeug==3.1.4
 widgetsnbextension==4.0.7
 win32-setctime==1.1.0
 xmltodict==0.13.0
